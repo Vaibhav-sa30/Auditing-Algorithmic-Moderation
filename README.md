@@ -32,24 +32,6 @@ This study examines how different signal classes, textual, social feedback, iden
 
 ---
 
-## Repository Structure
-
-```
-.
-├── paper_companion.ipynb        # v1 — Restricted library analysis (sklearn only)
-├── paper_companion_v2.ipynb     # v2 — Full analysis (NLTK, LightGBM, DistilBERT)
-├── complete-nb.ipynb            # Comprehensive NLP preprocessing notebook
-├── Algorithmic Moderation (with figures).docx   # Paper with embedded figures
-├── Algorithmic Moderation Signal Classes and Governance Pipeline - Table 1.csv
-├── paper_figures/               # Generated figures (MSMP pipeline, SHAP charts, etc.)
-│   ├── fig1_msmp_pipeline.png
-│   ├── fig2_transparency_gap.png
-│   └── fig3_identity_temporal.png
-└── README.md
-```
-
----
-
 ## Multi-Signal Moderation Pipeline (MSMP)
 
 The paper introduces and operationalizes the **MSMP framework**, which categorises input signals into four classes:
