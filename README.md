@@ -4,7 +4,7 @@
 [![Kaggle](https://img.shields.io/badge/Run%20on-Kaggle-20BEFF?logo=kaggle)](https://kaggle.com)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-> **IIT Madras · Machine Learning Practice (MLP) Project**  
+> **Vaibhav Satish · Indian Institute of Technology Madras**  
 > Research paper investigating the Transparency Gap in automated content moderation through multi-signal auditing.
 
 ---
