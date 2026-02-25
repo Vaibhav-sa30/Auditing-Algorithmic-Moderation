@@ -11,7 +11,7 @@
 
 ## Abstract
 
-This study examines how different signal classes — textual, social feedback, identity-related, and internal platform signals — jointly shape automated moderation outcomes. Using an auditing-oriented methodology, we empirically demonstrate the existence of a **Transparency Gap**: a significant portion of moderation decisions is attributable to internal platform signals that are opaque to users, researchers, and regulators. We further identify identity-linked categorization disparities and temporal escalation dynamics, positioning automated moderation as a dynamic, multi-signal governance pipeline rather than a static classification task.
+This study examines how different signal classes, textual, social feedback, identity-related, and internal platform signals, jointly shape automated moderation outcomes. Using an auditing-oriented methodology, we empirically demonstrate the existence of a **Transparency Gap**: a significant portion of moderation decisions is attributable to internal platform signals that are opaque to users, researchers, and regulators. We further identify identity-linked categorization disparities and temporal escalation dynamics, positioning automated moderation as a dynamic, multi-signal governance pipeline rather than a static classification task.
 
 **Key findings:**
 - Internal platform signals alone achieve Macro-F1 of **0.703**, nearly 3× random baseline
