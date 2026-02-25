@@ -117,16 +117,25 @@ jupyter notebook paper_companion_v2.ipynb
 ---
 
 ## Figures
+<div align="center">
 
-| Figure | Description |
-|---|---|
-| ![Fig 1](<img width="995" height="579" alt="image" src="https://github.com/user-attachments/assets/1eb2bbac-e2f7-45d9-b932-0bc245e67851" />
-) | **Figure 1:** Multi-Signal Moderation Pipeline |
-| ![Fig 2](<img width="829" height="407" alt="image" src="https://github.com/user-attachments/assets/c545caa1-ec3a-40fe-8b82-935e07e949e2" />
-) | **Figure 2:** Signal Combination Results & Transparency Gap |
-| ![Fig 3](<img width="825" height="375" alt="image" src="https://github.com/user-attachments/assets/92f60e41-b043-4f9d-b3f4-bde317251322" />
-) | **Figure 3:** Identity Patterns & Temporal Escalation |
+**Figure 1: Multi-Signal Moderation Pipeline (MSMP)**
 
+<img src="https://github.com/user-attachments/assets/1eb2bbac-e2f7-45d9-b932-0bc245e67851" width="800" alt="Multi-Signal Moderation Pipeline" />
+
+<br><br>
+
+**Figure 2: Signal Combination Results & Transparency Gap Analysis**
+
+<img src="https://github.com/user-attachments/assets/c545caa1-ec3a-40fe-8b82-935e07e949e2" width="800" alt="Signal Combination Results and Transparency Gap" />
+
+<br><br>
+
+**Figure 3: Identity-Linked Patterns & Temporal Escalation Dynamics**
+
+<img src="https://github.com/user-attachments/assets/92f60e41-b043-4f9d-b3f4-bde317251322" width="800" alt="Identity Patterns and Temporal Escalation" />
+
+</div>
 ---
 
 ## Citation
