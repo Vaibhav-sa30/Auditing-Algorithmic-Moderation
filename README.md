@@ -120,9 +120,10 @@ jupyter notebook paper_companion_v2.ipynb
 
 | Figure | Description |
 |---|---|
-| ![Fig 1](paper_figures/fig1_msmp_pipeline.png) | **Figure 1:** Multi-Signal Moderation Pipeline |
-| ![Fig 2](paper_figures/fig2_transparency_gap.png) | **Figure 2:** Signal Combination Results & Transparency Gap |
-| ![Fig 3](paper_figures/fig3_identity_temporal.png) | **Figure 3:** Identity Patterns & Temporal Escalation |
+| ![Fig 1](<img width="995" height="579" alt="image" src="https://github.com/user-attachments/assets/1eb2bbac-e2f7-45d9-b932-0bc245e67851" />) | **Figure 1:** Multi-Signal Moderation Pipeline |
+| ![Fig 2](<img width="829" height="407" alt="image" src="https://github.com/user-attachments/assets/c545caa1-ec3a-40fe-8b82-935e07e949e2" />) | **Figure 2:** Signal Combination Results & Transparency Gap |
+| ![Fig 3](<img width="825" height="375" alt="image" src="https://github.com/user-attachments/assets/92f60e41-b043-4f9d-b3f4-bde317251322" />
+) | **Figure 3:** Identity Patterns & Temporal Escalation |
 
 ---
 
@@ -133,10 +134,9 @@ If you use this work, please cite:
 ```bibtex
 @article{auditing_algorithmic_moderation_2025,
   title   = {Auditing Algorithmic Moderation: A Multi-Signal Analysis of Automated Content Governance},
-  author  = {[Author Names]},
+  author  = {[Vaibhav Satish]},
   year    = {2025},
-  school  = {Indian Institute of Technology Madras},
-  note    = {Machine Learning Practice Project}
+  school  = {Indian Institute of Technology Madras}
 }
 ```
 
