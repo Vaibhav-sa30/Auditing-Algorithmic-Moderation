@@ -78,44 +78,6 @@ The paper introduces and operationalizes the **MSMP framework**, which categoris
 
 ---
 
-## Requirements
-
-```bash
-# Core
-pip install numpy pandas scikit-learn lightgbm xgboost
-
-# NLP (v2 notebook)
-pip install nltk transformers torch
-
-# Explainability
-pip install shap
-
-# Document processing
-pip install python-docx pdfplumber
-
-# Visualization
-pip install matplotlib seaborn
-```
-
----
-
-## Running the Notebooks
-
-### Recommended: Kaggle (GPU T4 x2)
-1. Upload `paper_companion_v2.ipynb` to Kaggle
-2. Set accelerator to **GPU T4 x2**
-3. Enable internet access
-4. Run all cells — checkpointing is built in (`/kaggle/working/ckpt_v2/`)
-
-### Local (16GB RAM, RTX 3050 or better)
-```bash
-jupyter notebook paper_companion_v2.ipynb
-```
-
-> **Note:** The DistilBERT fine-tuning cell uses mixed-precision (fp16) and is optimised for 4GB VRAM. On CPU, skip Section 9 (DistilBERT fine-tuning) and use Section 8 (embedding-only) instead.
-
----
-
 ## Figures
 <div align="center">
 
